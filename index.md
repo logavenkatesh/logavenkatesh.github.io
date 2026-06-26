@@ -1,6 +1,6 @@
-# Quality Geek
+# Inovara
 
-Quality Geek is an independent software and technical documentation initiative by Logavenkatesh Shanmugam, focused on practical digital tools for testing laboratories, quality systems, and ISO/IEC 17025 internal audit workflows.
+Inovara is an independent software and technical documentation initiative by Logavenkatesh Shanmugam, focused on practical digital tools for testing laboratories, quality systems, and ISO/IEC 17025 internal audit workflows.
 
 ## About AuditSnap 17025
 
@@ -15,6 +15,6 @@ AuditSnap 17025 is intended as a documentation and audit-assistance tool. It doe
 
 ## Contact
 
-Publisher: Quality Geek  
+Publisher: Inovara  
 Developer: Logavenkatesh Shanmugam  
 Email: logavenkatesh@gmail.com
