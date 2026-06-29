@@ -1,7 +1,7 @@
 Privacy Policy for AuditSnap 17025
 Effective Date: 22.06.2026
 App Name: AuditSnap 17025
-Publisher: Quality Geek
+Publisher: Inovara
 Developer: Logavenkatesh Shanmugam
 Contact Email: logavenkatesh@gmail.com
 1. Introduction
@@ -25,7 +25,7 @@ Depending on user activity, the app may store the following information locally 
 AuditSnap 17025 may request access to the camera or file picker when the user chooses to capture photo evidence, import documents, import logo files, import clause text templates, or select backup/restore files.
 These permissions are used only for app functions selected by the user. The app does not automatically upload captured photos, documents, reports, or backups to any server.
 5. Data Sharing
-AuditSnap 17025 does not automatically share user data with Quality Geek, the developer, advertisers, analytics providers, or any third-party server.
+AuditSnap 17025 does not automatically share user data with Inovara, the developer, advertisers, analytics providers, or any third-party server.
 Users may manually share or export data using device sharing options, such as email, messaging apps, cloud storage apps, file managers, or other applications installed on the device. When the user chooses to share/export files, the handling of those files is controlled by the selected external application or service.
 6. No Advertising or Analytics
 AuditSnap 17025 does not currently include third-party advertising SDKs or third-party analytics SDKs.
@@ -42,10 +42,10 @@ The app does not claim ownership of user-imported content.
 10. Children’s Privacy
 AuditSnap 17025 is intended for professional and educational use by laboratories, auditors, trainers, trainees, and quality personnel. It is not directed to children.
 11. Changes to this Privacy Policy
-Quality Geek may update this Privacy Policy from time to time. Any changes will be reflected by updating the effective date and publishing the revised policy.
+Inovara may update this Privacy Policy from time to time. Any changes will be reflected by updating the effective date and publishing the revised policy.
 12. Contact
 For privacy questions, support, or app-related inquiries, contact:
-Quality Geek
+Inovara
 Developer: Logavenkatesh Shanmugam
 Email: logavenkatesh@gmail.com
 
